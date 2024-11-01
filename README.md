@@ -1,4 +1,3 @@
-Power Bi Certification
 
 I’m excited to share that I have completed the Power BI Foundation program with iNeuron, and the journey has been immensely rewarding! This course equipped me with essential skills to transform raw data into compelling, interactive visualizations and helped me enhance my data storytelling capabilities.
 
@@ -14,4 +13,4 @@ Data Transformation: Learned to clean, reshape, and prepare data using Power Que
 
 Power BI Service: Acquired knowledge on sharing and collaborating on reports, leveraging cloud capabilities for seamless data accessibility.
 
-This certification has enhanced my confidence and capability in leveraging data for insightful decision-making
+This certification has enhanced my confidence and capability in leveraging data for insightful decision-making.
